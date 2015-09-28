@@ -10,7 +10,7 @@ namespace ConsoleApplication23
     {
         static void Main(string[] args)
         {
-            Console.Write ('ira');
+            Console.Write ('ira2');
         }
     }
 }
